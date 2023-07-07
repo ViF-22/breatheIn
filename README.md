@@ -3,17 +3,16 @@
 <h4><a href='https://github.com/ViF-22/breatheIn'>Repository on github</a></h4>
 
 ## Starting Page
-
-<img src='https://drive.google.com/file/d/1uQGk6S3MzvPa8zcxW4cDkaIa-7dpkJa1/view?usp=drive_link'/>
+![Starting Page](https://drive.google.com/uc?id=1uQGk6S3MzvPa8zcxW4cDkaIa-7dpkJa1)
 
 ## Main Page
 
 In the main block there is a time, date and the ability to track your mental state. There are also two buttons that lead to MoodBoard and Journal.
 
-<img src='https://drive.google.com/file/d/1Z5uIanDnIrenMHVrLrAR0LtWINNGgHVg/view?usp=sharing'/>
+![Main Page](https://drive.google.com/uc?id=1Z5uIanDnIrenMHVrLrAR0LtWINNGgHVg)
 
 With appearing mood block:
-<img src='https://drive.google.com/file/d/1wz5Izli8h1660PPTPfamzgzWdPXbNB1N/view?usp=sharing'/>
+![Main Page with Block](https://drive.google.com/uc?id=1wz5Izli8h1660PPTPfamzgzWdPXbNB1N)
 
 ## Journal
 One of the greatest things in this application is ability to write down your day. 
@@ -23,14 +22,13 @@ It has three sections:
   <li>the main block</li>
   <li>three thing that you do today</li>
 </ul>
-<img src='https://drive.google.com/file/d/1KV3B6MHOUh4S6SnNQwuaVyZGhIRbZFt9/view?usp=sharing'/>
 
 All the journal notes are stored in journal component:
-<img src='https://drive.google.com/file/d/1kgJ_zjyhU-gb9HrKcFfrO0SK8f6KeOzU/view?usp=sharing'/>
+![Journal with notes](https://drive.google.com/uc?id=1kgJ_zjyhU-gb9HrKcFfrO0SK8f6KeOzU)
 
 ## MoodBoard
 All the emotions that you choose on main page will be stored there
-<img src='https://drive.google.com/file/d/1Kv0ocISZhNhcOuXDXnkiTQwxXiqJDzmr/view?usp=sharing'/>
+![Moodboard](https://drive.google.com/uc?id=1Kv0ocISZhNhcOuXDXnkiTQwxXiqJDzmr)
 
 ## Created with
 <ul>
@@ -49,16 +47,16 @@ All the emotions that you choose on main page will be stored there
 
 ## Стартовая страница
 
-<img src='https://drive.google.com/file/d/1uQGk6S3MzvPa8zcxW4cDkaIa-7dpkJa1/view?usp=drive_link'/>
+![Starting Page](https://drive.google.com/uc?id=1uQGk6S3MzvPa8zcxW4cDkaIa-7dpkJa1)
 
 ## Главная страница
 
 В основном блоке есть время, дата и возможность отслеживать свое настроение. Есть также две кнопки, которые ведут к MoodBoard и Journal.
 
-<img src='https://drive.google.com/file/d/1Z5uIanDnIrenMHVrLrAR0LtWINNGgHVg/view?usp=sharing'/>
+![Main Page](https://drive.google.com/uc?id=1Z5uIanDnIrenMHVrLrAR0LtWINNGgHVg)
 
 С появляющимся блоком настроения:
-<img src='https://drive.google.com/file/d/1wz5Izli8h1660PPTPfamzgzWdPXbNB1N/view?usp=sharing'/>
+![Main Page with Block](https://drive.google.com/uc?id=1wz5Izli8h1660PPTPfamzgzWdPXbNB1N)
 
 ## Журнал
 Одна из замечательных вещей в этом приложении — возможность записывать свой день.
@@ -68,14 +66,14 @@ All the emotions that you choose on main page will be stored there
    <li>основной блок</li>
    <li>три вещи, которые вы сделали сегодня</li>
 </ul>
-<img src='https://drive.google.com/file/d/1KV3B6MHOUh4S6SnNQwuaVyZGhIRbZFt9/view?usp=sharing'/>
 
 Все заметки журнала хранятся в компоненте журнала:
-<img src='https://drive.google.com/file/d/1kgJ_zjyhU-gb9HrKcFfrO0SK8f6KeOzU/view?usp=sharing'/>
+
+![Journal with notes](https://drive.google.com/uc?id=1kgJ_zjyhU-gb9HrKcFfrO0SK8f6KeOzU)
 
 ## Доска Настроения
 Там будут храниться все эмоции, которые вы выбираете на главной странице
-<img src='https://drive.google.com/file/d/1Kv0ocISZhNhcOuXDXnkiTQwxXiqJDzmr/view?usp=sharing'/>
+![Moodboard](https://drive.google.com/uc?id=1Kv0ocISZhNhcOuXDXnkiTQwxXiqJDzmr)
 
 ## Создано при помощи
 <ul>
