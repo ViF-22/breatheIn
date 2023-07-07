@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+
+body {
+  height: 100%;
+  background: black;
+}
+
+.overflow-word {
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+textarea::-webkit-scrollbar {
+  width: 2px;
+}
+
+.text-wrap {
+  overflow-wrap: break-word;
+}
+
+.bg-img {
+  object-fit: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: cover;
+  height: 100%;
+}
