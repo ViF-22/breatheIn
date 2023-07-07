@@ -1,34 +1,89 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h2>BreatheIn - the project for your wellbeing.</h2>
+<h4><a href='https://breathe-in-ten.vercel.app/'>Delpoy on Vercel</a></h4> 
+<h4><a href='https://github.com/ViF-22/breatheIn'>Repository on github</a></h4>
 
-## Getting Started
+## Starting Page
 
-First, run the development server:
+<img src='https://drive.google.com/file/d/1uQGk6S3MzvPa8zcxW4cDkaIa-7dpkJa1/view?usp=drive_link'/>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Main Page
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+In the main block there is a time, date and the ability to track your mental state. There are also two buttons that lead to MoodBoard and Journal.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<img src='https://drive.google.com/file/d/1Z5uIanDnIrenMHVrLrAR0LtWINNGgHVg/view?usp=sharing'/>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+With appearing mood block:
+<img src='https://drive.google.com/file/d/1wz5Izli8h1660PPTPfamzgzWdPXbNB1N/view?usp=sharing'/>
 
-## Learn More
+## Journal
+One of the greatest things in this application is ability to write down your day. 
+It has three sections: 
+<ul>
+  <li>your mood of the day</li>
+  <li>the main block</li>
+  <li>three thing that you do today</li>
+</ul>
+<img src='https://drive.google.com/file/d/1KV3B6MHOUh4S6SnNQwuaVyZGhIRbZFt9/view?usp=sharing'/>
 
-To learn more about Next.js, take a look at the following resources:
+All the journal notes are stored in journal component:
+<img src='https://drive.google.com/file/d/1kgJ_zjyhU-gb9HrKcFfrO0SK8f6KeOzU/view?usp=sharing'/>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## MoodBoard
+All the emotions that you choose on main page will be stored there
+<img src='https://drive.google.com/file/d/1Kv0ocISZhNhcOuXDXnkiTQwxXiqJDzmr/view?usp=sharing'/>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Created with
+<ul>
+  <li>Next.js</li>
+  <li>React</li>
+  <li>Tailwind CSS for styling</li>
+  <li>Redux Toolkit</li>
+  <li>Redux Persist for storing all the data in local storage</li>
+</ul>
 
-## Deploy on Vercel
+##
+##
+<h2>BreatheIn - проект для вашего ментального здоровья</h2>
+<h4><a href='https://breathe-in-ten.vercel.app/'>Деплой на Vercel</a></h4> 
+<h4><a href='https://github.com/ViF-22/breatheIn'>Репозиторий на github</a></h4>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Стартовая страница
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<img src='https://drive.google.com/file/d/1uQGk6S3MzvPa8zcxW4cDkaIa-7dpkJa1/view?usp=drive_link'/>
+
+## Главная страница
+
+В основном блоке есть время, дата и возможность отслеживать свое настроение. Есть также две кнопки, которые ведут к MoodBoard и Journal.
+
+<img src='https://drive.google.com/file/d/1Z5uIanDnIrenMHVrLrAR0LtWINNGgHVg/view?usp=sharing'/>
+
+С появляющимся блоком настроения:
+<img src='https://drive.google.com/file/d/1wz5Izli8h1660PPTPfamzgzWdPXbNB1N/view?usp=sharing'/>
+
+## Журнал
+Одна из замечательных вещей в этом приложении — возможность записывать свой день.
+Он состоит из трех разделов:
+<ul>
+  <li>ваше настроение сегодня</li>
+   <li>основной блок</li>
+   <li>три вещи, которые вы сделали сегодня</li>
+</ul>
+<img src='https://drive.google.com/file/d/1KV3B6MHOUh4S6SnNQwuaVyZGhIRbZFt9/view?usp=sharing'/>
+
+Все заметки журнала хранятся в компоненте журнала:
+<img src='https://drive.google.com/file/d/1kgJ_zjyhU-gb9HrKcFfrO0SK8f6KeOzU/view?usp=sharing'/>
+
+## Доска Настроения
+Там будут храниться все эмоции, которые вы выбираете на главной странице
+<img src='https://drive.google.com/file/d/1Kv0ocISZhNhcOuXDXnkiTQwxXiqJDzmr/view?usp=sharing'/>
+
+## Создано при помощи
+<ul>
+  <li>Next.js</li>
+  <li>React</li>
+  <li>Tailwind CSS для стилизации</li>
+  <li>Redux Toolkit</li>
+  <li>Redux Persist для храрнения информации в local storage</li>
+</ul>
+
+
